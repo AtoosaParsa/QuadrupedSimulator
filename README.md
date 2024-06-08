@@ -7,7 +7,7 @@ This repository contains the source code for all the experiments in the followin
 </br>
 
 <p align="center">
-  <img src="https://github.com/AtoosaParsa/QuadrupedSimulator/blob/main/overview.png"  width="700">
+  <img src="https://github.com/AtoosaParsa/QuadrupedSimulator/blob/master/overview.png"  width="500">
 </p>
 
 </br>
