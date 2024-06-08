@@ -13,7 +13,7 @@ This repository contains the source code for all the experiments in the followin
 </br>
 </br>
 
-- [Watch a video summary here!]([https://youtu.be/nL7L85-D9Uo](https://youtu.be/am2Tr2bhiTQ?si=JMZxoJabxfwxOcD2))
+- [Watch a video summary here!](https://youtu.be/am2Tr2bhiTQ?si=JMZxoJabxfwxOcD2))
 
 </br>
 
